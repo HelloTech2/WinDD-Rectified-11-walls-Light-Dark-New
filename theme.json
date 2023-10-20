@@ -1,0 +1,13 @@
+{
+  "imageFilename": "11_*.png",
+  "imageCredits": "The Rectify11 Team",
+  "dayImageList": [
+    1
+  ],
+  "sunsetImageList": [
+    2
+  ],
+  "nightImageList": [
+    3
+  ]
+}
