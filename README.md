@@ -1,6 +1,6 @@
 # WinDD-Rectified-11-walls-Light-Dark-New
-New Rectify11 Wallpapers For new versions
-
+New WinDynamicDesktop Rectify11 Wallpapers For new versions
+### If you like to add/change wallpapers clone the source code with git, add your walls, edit the theme.json file, zip that files, change .zip to .ddw and open with WinDynamicDesktop
 # Day
 ![imagen](https://github.com/V1vidExplorer/WinDD-Rectified-11-walls-Light-Dark-New/assets/96501474/2840f5fd-8209-4dc7-a38c-18742093b1be)
 
